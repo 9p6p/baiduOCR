@@ -13,7 +13,7 @@
 
 运行效果如图：
    <!-- 空一行 -->
-![图片2](https://github.com/9p6p/baiduOCR/assets/85789412/fd8397c3-ab4d-40c8-be78-bb8197e0d1cc)
+![图片1](https://github.com/9p6p/baiduOCR/assets/85789412/ee33041f-f262-450d-bbb1-9890eaa6afcc)
 
    <!-- 空一行 -->
-![图片1](https://github.com/9p6p/baiduOCR/assets/85789412/ee33041f-f262-450d-bbb1-9890eaa6afcc)
+![图片2](https://github.com/9p6p/baiduOCR/assets/85789412/fd8397c3-ab4d-40c8-be78-bb8197e0d1cc)
